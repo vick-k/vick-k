@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victor Konstantinov.
+- 👋 Hi, I’m Vick.
 - 👀 I’m interested in gaming, hardware, learning new things...
 - 🌱 I’m currently learning C# and Unity 3D.
 
